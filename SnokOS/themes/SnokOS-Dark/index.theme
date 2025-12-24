@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=SnokOS-Dark
+Comment=An Materia Gtk+ theme based on Elegant Design
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=SnokOS-Dark
+MetacityTheme=SnokOS-Dark
+IconTheme=SnokOS-Dark
+CursorTheme=SnokOS-Dark
+ButtonLayout=close,minimize,maximize:menu
